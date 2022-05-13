@@ -1,0 +1,36 @@
+location_type,parent_station,stop_code,stop_desc,stop_id,stop_lon,stop_lat,stop_name,stop_url,wheelchair_boarding,zone_id
+,,,,Saint-Aubin Villepreux,-0.7373788511046298,44.9128374573304,Saint-Aubin Villepreux,,1,Saint-Aubin Villepreux
+,,,,Croix Vieille,-0.7283756907612438,44.91256734136468,Croix Vieille,,1,Croix Vieille
+,,,,Eglise de Saint-Aubin,-0.7240948704713157,44.91189835804348,Eglise de Saint-Aubin,,1,Eglise de Saint-Aubin
+,,,,Germignan,-0.7144224079491401,44.910631352211,Germignan,,1,Germignan
+,,,,Lycée Sud Médoc,-0.7144224079491401,44.910631352211,Lycée Sud Médoc,,1,Lycée Sud Médoc
+,,,,Euromédoc,-0.7249803827359702,44.90606049876686,Euromédoc,,1,Euromédoc
+,,,,Les Escarrets,-0.7230382469226992,44.90268979500025,Les Escarrets,,1,Les Escarrets
+,,,,Mairie de Saint-Médard,-0.7177774695271888,44.89580980961984,Mairie de Saint-Médard,,1,Mairie de Saint-Médard
+,,,,République,-0.714314686405455,44.89509913150075,République,,1,République
+,,,,Montaigne,-0.7098949827028567,44.89232645823034,Montaigne,,1,Montaigne
+,,,,Bords de Jalles,-0.7036603249721607,44.88822948406189,Bords de Jalles,,1,Bords de Jalles
+,,,,Château de Gajac,-0.6980828222000046,44.88721626070427,Château de Gajac,,1,Château de Gajac
+,,,,Centre commercial Saint-Médard,-0.6904917193951254,44.88388763449034,Centre commercial Saint-Médard,,1,Centre commercial Saint-Médard
+,,,,Parc d'activités Berlincan,-0.6871192546968219,44.88176912590617,Parc d'activités Berlincan,,1,Parc d'activités Berlincan
+,,,,Rue du Médoc,-0.6808464844702666,44.87780345216607,Rue du Médoc,,1,Rue du Médoc
+,,,,Mairie du Haillan,-0.6775982141424308,44.87267646852676,Mairie du Haillan,,1,Mairie du Haillan
+,,,,Collège Emile Zola,-0.6711780096126096,44.86842119277581,Collège Emile Zola,,1,Collège Emile Zola
+,,,,P+R Mermoz,-0.6682663863460914,44.86686867218972,P+R Mermoz,,1,P+R Mermoz
+,,,,Zone d'activités Saint-Exupéry,-0.660624228274368,44.8640001747869,Zone d'activités Saint-Exupéry,,1,Zone d'activités Saint-Exupéry
+,,,,Germaine Tillon,-0.6544287085829115,44.86299785795585,Germaine Tillon,,1,Germaine Tillon
+,,,,La Forêt,-0.6472592579042169,44.86258523371623,La Forêt,,1,La Forêt
+,,,,Le Grand Louis,-0.6417411700541931,44.86121861204916,Le Grand Louis,,1,Le Grand Louis
+,,,,Caillou,-0.6345915925891732,44.86021080047718,Caillou,,1,Caillou
+,,,,Cage verte,-0.6294120636873257,44.8590993655823,Cage verte,,1,Cage verte
+,,,,Stade Stéhelin,-0.6218179111938349,44.85776170818564,Stade Stéhelin,,1,Stade Stéhelin
+,,,,Collège Saint-André,-0.6153582226746557,44.85566019164943,Collège Saint-André,,1,Collège Saint-André
+,,,,Caudéran centre,-0.6110809804399397,44.85386716745952,Caudéran centre,,1,Caudéran centre
+,,,,Grand Lebrun,-0.6068908317004096,44.85114593031238,Grand Lebrun,,1,Grand Lebrun
+,,,,Parc bordelais,-0.6019162294568048,44.84968272800143,Parc bordelais,,1,Parc bordelais
+,,,,École normale,-0.6016537877980699,44.84780610896658,École normale,,1,École normale
+,,,,Barrière de Saint-Médard,-0.597784897602277,44.84661056831641,Barrière de Saint-Médard,,1,Barrière de Saint-Médard
+,,,,Croix Blanche,-0.5932764527715828,44.84547687820502,Croix Blanche,,1,Croix Blanche
+,,,,Lycée Camille Julian,-0.5889926326581452,44.84426709269498,Lycée Camille Julian,,1,Lycée Camille Julian
+,,,,Gambetta-Mériadeck,-0.5832853562849938,44.84025987835697,Gambetta-Mériadeck,,1,Gambetta-Mériadeck
+,,,,Saint-Seurin,-0.5842924652881065,44.84193949564096,Saint-Seurin,,1,Saint-Seurin
